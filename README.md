@@ -1,2 +1,2 @@
 # justabot
-bunch of bots making a bot :)
+Retail Automation software to purchase limited stock and high demand items. 
